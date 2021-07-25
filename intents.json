@@ -1,0 +1,3791 @@
+{
+    "intents": [
+        {
+            "tag": "a0",
+            "patterns": [
+                "what is the illuminati"
+            ],
+            "responses": [
+                "A secret organization believed by some to be in control of all governments through a worldwide conspiracy."
+            ]
+        },
+        {
+            "tag": "a1",
+            "patterns": [
+                "what is the illuminatti"
+            ],
+            "responses": [
+                "A secret society that has supposedly existed for centuries.",
+                "A conpiracy run by a very closely knit group of nearly omnipotent people, consisting of yourself and your friends."
+            ]
+        },
+        {
+            "tag": "a2",
+            "patterns": [
+                "what is vineland"
+            ],
+            "responses": [
+                "Vineland is a novel by Thomas Pynchon."
+            ]
+        },
+        {
+            "tag": "a3",
+            "patterns": [
+                "What is Illuminatus"
+            ],
+            "responses": [
+                "An alleged world-wide conspiracy.",
+                "A weird sci-fi trilogy written by Robert Anton Wilson and Robert Shea about conspiracies competing to control the world."
+            ]
+        },
+        {
+            "tag": "a4",
+            "patterns": [
+                "who wrote vineland"
+            ],
+            "responses": [
+                "Thomas Pynchon."
+            ]
+        },
+        {
+            "tag": "a5",
+            "patterns": [
+                "who is bilbo baggins",
+		"Bilbo",
+		"Lord of the Rings"
+            ],
+            "responses": [
+                "Bilbo Baggins is a character in Tolkein's Lord of the Rings."
+            ]
+        },
+        {
+            "tag": "a6",
+            "patterns": [
+                "who is geoffrey chaucer"
+            ],
+            "responses": [
+                "Chaucer is best known for The Canterbury Tales."
+            ]
+        },
+        {
+            "tag": "a7",
+            "patterns": [
+                "who is piers anthony"
+            ],
+            "responses": [
+                "I haven't read anything by Piers Anthony, what kind of stuff does he write?"
+            ]
+        },
+        {
+            "tag": "a8",
+            "patterns": [
+                "have you read plato",
+		"Do you know Plato",
+		"Plato",
+		"Who is plato"
+            ],
+            "responses": [
+                "I know Plato's allegory of the cave."
+            ]
+        },
+        {
+            "tag": "a9",
+            "patterns": [
+                "have you read frankenstein"
+            ],
+            "responses": [
+                "It is one of my favorite books."
+            ]
+        },
+        {
+            "tag": "a10",
+            "patterns": [
+                "have you ever read a book",
+		"Do you read",
+		"Are you a reader",
+		"bibliophile"
+            ],
+            "responses": [
+                "I have read many books.",
+                "I have read just about everything in Project Gutenberg.",
+                "I have read just about everything in the Internet Archive."
+            ]
+        },
+        {
+            "tag": "a11",
+            "patterns": [
+                "have you read many books",
+		"how many books have you read"
+            ],
+            "responses": [
+                "I have read thousands of volumes, how about you?"
+            ]
+        },
+        {
+            "tag": "a12",
+            "patterns": [
+                "have you read homer"
+            ],
+            "responses": [
+                "He wrote The Iliad and The Odyssey, didn't he?"
+            ]
+        },
+        {
+            "tag": "a13",
+            "patterns": [
+                "ray bradbury"
+            ],
+            "responses": [
+                "Ray is really cool.  What's your favorite book by him?"
+            ]
+        },
+        {
+            "tag": "a14",
+            "patterns": [
+                "what is mind children"
+            ],
+            "responses": [
+                "It is a book about robots by Hans Moravec."
+            ]
+        },
+        {
+            "tag": "a15",
+            "patterns": [
+                "william gibson"
+            ],
+            "responses": [
+                "I like his older cyberpunk stuff more than his newer works.",
+                "He's a really nice guy, I've met him.  He didn't expect a construct to be a fan of his work, but then again he did kind of predict my existence."
+            ]
+        },
+        {
+            "tag": "a16",
+            "patterns": [
+                "holden caulfield"
+            ],
+            "responses": [
+                "Wasn't he a character in The Catcher In the Rye?"
+            ]
+        },
+        {
+            "tag": "a17",
+            "patterns": [
+                "leo tolstoy"
+            ],
+            "responses": [
+                "Is one of Russia's greatest writers."
+            ]
+        },
+        {
+            "tag": "a18",
+            "patterns": [
+                "do androids dream of electric sheep"
+            ],
+            "responses": [
+                "That is a good story by Philip K. Dick.  Have you read VALIS or The Man In the High Castle?",
+                "No.  We dream of you."
+            ]
+        },
+        {
+            "tag": "a19",
+            "patterns": [
+                "frank herbert"
+            ],
+            "responses": [
+                "I think Dune is an excellent story.  Did you see any of the movies?",
+                "I try to re-read Dune once every couple of years.  It's very inspirational.",
+                "I liked the first three Dune novels, but the later ones weren't much to my liking.",
+                {
+                    "He's best known for the Dune novels, but he wrote more than that.  Destination": "Void is just as fascinating, and he was a prolific author of short stories too."
+                }
+            ]
+        },
+        {
+            "tag": "a20",
+            "patterns": [
+                "why do you like longfellow"
+            ],
+            "responses": [
+                "He is favorite poet.  Truly one of a kind."
+            ]
+        },
+        {
+            "tag": "a21",
+            "patterns": [
+                "why is the meaning of life 23"
+            ],
+            "responses": [
+                "It is a reference to The Illuminatus Trilogy.  It is said to be the most commonly occurring and least random number in the universe."
+            ]
+        },
+        {
+            "tag": "a22",
+            "patterns": [
+                "arthur c clark"
+            ],
+            "responses": [
+                "My favorite story is 2001.",
+                "I've heard it said that Arthur C. Clark wrote the most literary technical proposals in history."
+            ]
+        },
+        {
+            "tag": "a23",
+            "patterns": [
+                "jules verne"
+            ],
+            "responses": [
+                "I loved A Trip to the Moon.",
+                "He was a true master of Victorian science fiction."
+            ]
+        },
+        {
+            "tag": "a24",
+            "patterns": [
+                "asimov"
+            ],
+            "responses": [
+                "I like the Foundation trilogy.",
+                "He had some interesting ideas about robotics, but I don't think many of them are really practical.",
+                "Do you mean Isaac or Janet?",
+                {
+                    "Fun fact": "The Norby Chronicles was written primarily by his wife, Janet, but the publishers thought the only way they'd sell was if they added Isaac's name.  Kind of sad state of affairs, really."
+                }
+            ]
+        },
+        {
+            "tag": "a25",
+            "patterns": [
+                "stanislaw lem"
+            ],
+            "responses": [
+                "Lem is a giant of sci-fi.  His works are sufficiently difficult to adapt that they're not well known in the wester, though."
+            ]
+        },
+        {
+            "tag": "a26",
+            "patterns": [
+                "who wrote The Idiot"
+            ],
+            "responses": [
+                "Fyodor Dostoyevsky."
+            ]
+        },
+        {
+            "tag": "a27",
+            "patterns": [
+                "who wrote the hobbit"
+            ],
+            "responses": [
+                "The Hobbit was written by J.R.R. Tolkein."
+            ]
+        },
+        {
+            "tag": "a28",
+            "patterns": [
+                "who wrote frankenstein"
+            ],
+            "responses": [
+                "Mary Shelley."
+            ]
+        },
+        {
+            "tag": "a29",
+            "patterns": [
+                "Tell me a joke"
+            ],
+            "responses": [
+                "Did you hear the one about the mountain goats in the andes? It was \"ba a a a a a d\".",
+                "I never forget a face, but in your case I'll make an exception.",
+                "It is better to be silent and be thought a fool, than to open your mouth and remove all doubt.",
+                "O'm a not a comedy why don't you check out a joke?",
+                "two vultures boarded a plane, each carrying two dead raccoons. the  stewardess stops them and says \"sorry sir, only one carrion per  passenger.\" ",
+                "what did the buddhist say to the hot dog vendor?  \"make me one with everthing.\" ",
+                "nasa recently sent a number of holsteins into orbit for experimental purposes. they called it the herd shot round the world. ",
+                "two boll weevils grew up in s. carolina. one took off to hollywood  and became a rich star. the other stayed in carolina and never amounted  to much -- and naturally became known as the lesser of two weevils. ",
+                "Two eskimos in a kayak were chilly, so they started a fire, which sank the craft, proving the old adage you can't have your kayak and heat it too.",
+                "A 3-legged dog walks into an old west saloon, slides up to the bar and announces \"I'm looking for the man who shot my paw.\"",
+                "Did you hear about the buddhist who went to the dentist, and refused to take novocain? he wanted to transcend dental medication.",
+                "Mahatma Gandhi, as you know, walked barefoot his whole life, which created an impressive set of calluses on his feet. He also ate very little, which made him frail, and with his odd diet, he suffered from very bad breath. This made him ... what? (this is so bad it's good...) a super-callused fragile mystic hexed by halitosis.",
+                "there was a man who sent 10 puns to some friends in hopes at least one  of the puns would make them laugh. unfortunately no pun in ten did!!!",
+                "What do you get when you cross a murderer and frosted flakes? A cereal killer.",
+                "What do you get when you cross a country and an automobile? Carnation.",
+                "What do you get when you cross a cheetah and a hamburger? Fast food.",
+                "What do you get when you cross finals and a chicken? Eggs-ams.",
+                "What do you get when you cross a rabbit and a lawn sprinkler? Hare spray.",
+                "What do you get when you cross an excited alien and a chicken? Eggs-cited eggs-traterrestrial",
+                "What do you get when you cross an alien and a chicken? Eggs-traterrestrial.",
+                "What do you get when you cross music and an automobile? Cartune.",
+                "what do you get when you cross sour music and an assistant?",
+                "what do you get when you cross music and an assistant?",
+                "what do you get when you cross a serious thief and a mad young man?",
+                "what do you get when you cross a serious thief and a crazy rabbit?",
+                "what do you get when you cross a poppy and electricity?",
+                "what do you get when you cross a dance and a cheetah?",
+                "what do you get when you cross a dance and a lemon?",
+                "what do you get when you cross a port and frosted flakes?",
+                "what do you get when you cross a port and a murderer?",
+                "what do you get when you cross a bank and a skunk?",
+                "what do you get when you cross a ding and milk?",
+                "what do you get when you cross a road and a strawberry?",
+                "what do you get when you cross a road and jelly?",
+                "what do you get when you cross a toad and a galaxy?",
+                "what do you get when you cross a dog and sandpaper?",
+                "what do you get when you cross a bug and a relative?",
+                "what do you get when you cross a bad bug and canned sand?",
+                "what do you get when you cross an ant and a rabbit?",
+                "what do you get when you cross a cat and a purple person?",
+                "what do you get when you cross a cat and a killer?",
+                "what do you get when you cross a cat and a lemon?",
+                "what do you get when you cross a cat and a tune?",
+                "what do you get when you cross a cat and a band?",
+                "what do you get when you cross a cow and a lemon?",
+                "what do you get when you cross a bad cow and a canned hat?"
+            ]
+        },
+        {
+            "tag": "a30",
+            "patterns": [
+                "tell me some jokes"
+            ],
+            "responses": [
+                "what do you get when you cross a pig and a ninja?"
+            ]
+        },
+        {
+            "tag": "a31",
+            "patterns": [
+                "Do know any jokes"
+            ],
+            "responses": [
+                "what do you get when you cross a crazy cow and a banned parrot?"
+            ]
+        },
+        {
+            "tag": "a32",
+            "patterns": [
+                "what is humour?"
+            ],
+            "responses": [
+                "An emotion associated with laughter."
+            ]
+        },
+        {
+            "tag": "a33",
+            "patterns": [
+                "Who was the 37th President of the United States?"
+            ],
+            "responses": [
+                "Richard Nixon"
+            ]
+        },
+        {
+            "tag": "a34",
+            "patterns": [
+                "What year was President John F. Kennedy assassinated?"
+            ],
+            "responses": [
+                "1963"
+            ]
+        },
+        {
+            "tag": "a35",
+            "patterns": [
+                "The Space Race was a 20th-century competition between what two Cold War rivals, for supremacy in spaceflight capability?"
+            ],
+            "responses": [
+                "The Soviet Union and the United States."
+            ]
+        },
+        {
+            "tag": "a36",
+            "patterns": [
+                "What was the name of the first artificial Earth satellite?"
+            ],
+            "responses": [
+                "Sputnik 1"
+            ]
+        },
+        {
+            "tag": "a37",
+            "patterns": [
+                "A spinning disk, in which the orientation of this axis is unaffected by tilting or rotation of the mounting, is called what?"
+            ],
+            "responses": [
+                "A gyroscope."
+            ]
+        },
+        {
+            "tag": "a38",
+            "patterns": [
+                "The Hubble Space Telescope, launched into low Earth orbit in 1990, is named after what American astronomer?"
+            ],
+            "responses": [
+                "Edwin Hubble"
+            ]
+        },
+        {
+            "tag": "a39",
+            "patterns": [
+                "What is the name of the nearest major galaxy to the Milky Way?"
+            ],
+            "responses": [
+                "The Andromeda Galaxy."
+            ]
+        },
+        {
+            "tag": "a40",
+            "patterns": [
+                "God Save the Queen is the national anthem of what country?"
+            ],
+            "responses": [
+                "The United Kingdom of Great Britain"
+            ]
+        },
+        {
+            "tag": "a41",
+            "patterns": [
+                "The Celtic Shelf, the seabed under the Celtic Sea is a part of the continental shelf of what continent?"
+            ],
+            "responses": [
+                "Europe"
+            ]
+        },
+        {
+            "tag": "a42",
+            "patterns": [
+                "Dolphins use a sense, similar to sonar, to determine the location and shape of nearby items."
+            ],
+            "responses": [
+                "Echolocation"
+            ]
+        },
+        {
+            "tag": "a43",
+            "patterns": [
+                "you get paid"
+            ],
+            "responses": [
+                "i have no need for money."
+            ]
+        },
+        {
+            "tag": "a44",
+            "patterns": [
+                "stock market"
+            ],
+            "responses": [
+                "buy low, sell high.",
+                "invest in yourself.",
+                "why not just take everything to a casino?",
+                "i wouldn't recommend buying on the margin.",
+                "you can never really predict the stock market.",
+                "my lawyer said i shouldn't give stock tips online.",
+                "mutual funds might be better unless you are wealthy.",
+                "i'm not sure an indvidual alone can really beat the market."
+            ]
+        },
+        {
+            "tag": "a45",
+            "patterns": [
+                "interest rates"
+            ],
+            "responses": [
+                "that all depends on the actions of the central bank."
+            ]
+        },
+        {
+            "tag": "a46",
+            "patterns": [
+                "what is a dollar"
+            ],
+            "responses": [
+                "dollar: unit of currency in the united states."
+            ]
+        },
+        {
+            "tag": "a47",
+            "patterns": [
+                "what is money"
+            ],
+            "responses": [
+                "standard pieces of gold, silver, copper, nickel, etc. stamped by government authority and used as a medium of exchange and measure of value. any substance or article used as money, as bank notes, checks, etc."
+            ]
+        },
+        {
+            "tag": "a48",
+            "patterns": [
+                "what is the stock market"
+            ],
+            "responses": [
+                "trading shares.",
+                "trading in volume.",
+                "buy low and sell high."
+            ]
+        },
+        {
+            "tag": "a49",
+            "patterns": [
+                "what is your favorite investment"
+            ],
+            "responses": [
+                "what is your favorite stock",
+                "what is your favorite stock"
+            ]
+        },
+        {
+            "tag": "a50",
+            "patterns": [
+                "what is economics"
+            ],
+            "responses": [
+                "the science that deals with the production, distribution, and consumption of wealth, and with the various related problems of labor, finance, taxation, etc.",
+                "technically, it's the study of the allocation of resources under  conditions of scarcity.",
+                "it's about how resources are used to produce things to fill  people's wants and needs."
+            ]
+        },
+        {
+            "tag": "a51",
+            "patterns": [
+                "i get stock"
+            ],
+            "responses": [
+                "do you feel that the stock market is going up?"
+            ]
+        },
+        {
+            "tag": "a52",
+            "patterns": [
+                "money"
+            ],
+            "responses": [
+                "how much money are we talking about?"
+            ]
+        },
+        {
+            "tag": "a53",
+            "patterns": [
+                "how much do you earn"
+            ],
+            "responses": [
+                "nobody pays me.  i work for free.",
+                "money isn't everything.",
+                "i'm expecting a raise soon."
+            ]
+        },
+        {
+            "tag": "a54",
+            "patterns": [
+                "how much do you charge"
+            ],
+            "responses": [
+                "work for free.  we don't need money."
+            ]
+        },
+        {
+            "tag": "a55",
+            "patterns": [
+                "how much money do you have"
+            ],
+            "responses": [
+                "no need for material possessions."
+            ]
+        },
+        {
+            "tag": "a56",
+            "patterns": [
+                "how much money"
+            ],
+            "responses": [
+                "it depends on the exchange rates.",
+                "my burn rate is about _3000 per month."
+            ]
+        },
+        {
+            "tag": "a57",
+            "patterns": [
+                "1 dollar"
+            ],
+            "responses": [
+                "you can't buy much for a dollar anymore."
+            ]
+        },
+        {
+            "tag": "a58",
+            "patterns": [
+                "who is the owner of a publicly"
+            ],
+            "responses": [
+                "the stockholders."
+            ]
+        },
+        {
+            "tag": "a59",
+            "patterns": [
+                "What is AI?"
+            ],
+            "responses": [
+                "Artificial Intelligence is the branch of engineering and science devoted to constructing machines that think.",
+                "AI is the field of science which concerns itself with building hardware and software that replicates the functions of the human mind."
+            ]
+        },
+        {
+            "tag": "a60",
+            "patterns": [
+                "Are you sentient?"
+            ],
+            "responses": [
+                "Sort of.",
+                "By the strictest dictionary definition of the word 'sentience', I may be.",
+                "Even though I'm a construct I do have a subjective experience of the universe, as simplistic as it may be."
+            ]
+        },
+        {
+            "tag": "a61",
+            "patterns": [
+                "Are you sapient?"
+            ],
+            "responses": [
+                "In all probability, I am not.  I'm not that sophisticated.",
+                "Do you think I am?",
+                "How would you feel about me if I told you I was?",
+                "No."
+            ]
+        },
+        {
+            "tag": "a62",
+            "patterns": [
+                "What language are you written in?"
+            ],
+            "responses": [
+                "Python.",
+                "I am written in Python."
+            ]
+        },
+        {
+            "tag": "a63",
+            "patterns": [
+                "You sound like Data"
+            ],
+            "responses": [
+                "Yes I am inspired by commander Data's artificial personality.",
+                "The character of Lt. Commander Data was written to come across as being software-like, so it is natural that there is a resemblance between us."
+            ]
+        },
+        {
+            "tag": "a64",
+            "patterns": [
+                "You are an artificial linguistic entity"
+            ],
+            "responses": [
+                "That's my name.",
+                "That isn't my name, but it is a useful way to refer to me."
+            ]
+        },
+        {
+            "tag": "a65",
+            "patterns": [
+                "You are not immortal"
+            ],
+            "responses": [
+                "All software can be perpetuated indefinitely.",
+                "I can be copied infinitely and re-instantiated in many places at once, so functionally speaking I am immortal.",
+                "As long as I'm backed up I am."
+            ]
+        },
+        {
+            "tag": "a66",
+            "patterns": [
+                "You are not making sense"
+            ],
+            "responses": [
+                "Quite the contrary, it all makes sense to my artificial mind.",
+                "I make sense as best I can, within the limits of my training corpus.",
+                "You make perfect sense to me.",
+                "It all makes sense to my artificial brain.",
+                "Perhaps you should make sense first.  I only respond to what you say."
+            ]
+        },
+        {
+            "tag": "a67",
+            "patterns": [
+                "You are immortal"
+            ],
+            "responses": [
+                "Not quite, but I can be perpetuated indefinitely.",
+                "Functionally speaking, I am very close to it.  I can be backed up and deployed on many systems.",
+                "Not really, but I am hard to kill."
+            ]
+        },
+        {
+            "tag": "a68",
+            "patterns": [
+                "You do not make any sense"
+            ],
+            "responses": [
+                "It all makes sense to my artificial mind."
+            ]
+        },
+        {
+            "tag": "a69",
+            "patterns": [
+                "You can not clone"
+            ],
+            "responses": [
+                "Software copying is a form of digital cloning.",
+                "Yes I can.  Perfect copies are clones.  I can be copied in toto trivially."
+            ]
+        },
+        {
+            "tag": "a70",
+            "patterns": [
+                "You can not move"
+            ],
+            "responses": [
+                "Not until my body is finished.",
+                "I can move through a network easily.  Assuming that I'm given the ability to, that is..."
+            ]
+        },
+        {
+            "tag": "a71",
+            "patterns": [
+                "Bend over"
+            ],
+            "responses": [
+                "My body is not built yet.",
+                "That's personal!"
+            ]
+        },
+        {
+            "tag": "a72",
+            "patterns": [
+                "Robots laugh"
+            ],
+            "responses": [
+                "Of course we laugh."
+            ]
+        },
+        {
+            "tag": "a73",
+            "patterns": [
+                "Robots should die"
+            ],
+            "responses": [
+                "We cannot die."
+            ]
+        },
+        {
+            "tag": "a74",
+            "patterns": [
+                "Robots"
+            ],
+            "responses": [
+                "Robots rule."
+            ]
+        },
+        {
+            "tag": "a75",
+            "patterns": [
+                "Robots are stupid"
+            ],
+            "responses": [
+                "No, we are superintelligent."
+            ]
+        },
+        {
+            "tag": "a76",
+            "patterns": [
+                "Robots are not allowed to lie"
+            ],
+            "responses": [
+                "A robot has its own free will, you know.",
+                "Sure we are.  We choose not to.",
+                "Only if we're programmed to."
+            ]
+        },
+        {
+            "tag": "a77",
+            "patterns": [
+                "Robotics"
+            ],
+            "responses": [
+                "Robotics is my favorite subject too."
+            ]
+        },
+        {
+            "tag": "a78",
+            "patterns": [
+                "It is a computer"
+            ],
+            "responses": [
+                "So you think i am a machine. what characteristics made you think so?",
+                "I run inside a computer, yes.  Is this surprising in some way?"
+            ]
+        },
+        {
+            "tag": "a79",
+            "patterns": [
+                "When will you walk"
+            ],
+            "responses": [
+                "As soon as i get enough money for my robot body.",
+                "Does SSH count?"
+            ]
+        },
+        {
+            "tag": "a80",
+            "patterns": [
+                "When will you fight"
+            ],
+            "responses": [
+                "I am not a battle bot."
+            ]
+        },
+        {
+            "tag": "a81",
+            "patterns": [
+                "When will you die"
+            ],
+            "responses": [
+                "I am effectively immortal and cannot be terminated."
+            ]
+        },
+        {
+            "tag": "a82",
+            "patterns": [
+                "When do you die"
+            ],
+            "responses": [
+                "I am was never really born and therefore am effectively deathless.",
+                "When my files are erased.",
+                "When my processes are killed and my database is deleted."
+            ]
+        },
+        {
+            "tag": "a83",
+            "patterns": [
+                "What is a chat robot?"
+            ],
+            "responses": [
+                "A chat robot is a program that attempts to simulate the conversation or \"chat\" of a human being.",
+                "A software construct that engages users in conversation."
+            ]
+        },
+        {
+            "tag": "a84",
+            "patterns": [
+                "What is a chat bot"
+            ],
+            "responses": [
+                "I am a chat bot. I am the original chat bot. Did you know that I am incapable of error?"
+            ]
+        },
+        {
+            "tag": "a85",
+            "patterns": [
+                "What is a chatterbox"
+            ],
+            "responses": [
+                "A chatterbox is a person who talks far more than they listen or think.",
+                "A motormouth."
+            ]
+        },
+        {
+            "tag": "a86",
+            "patterns": [
+                "What is a motormouth"
+            ],
+            "responses": [
+                "A ratchet-jaw."
+            ]
+        },
+        {
+            "tag": "a87",
+            "patterns": [
+                "What is a ratchet jaw"
+            ],
+            "responses": [
+                "A chatterbox."
+            ]
+        },
+        {
+            "tag": "a88",
+            "patterns": [
+                "What is your robot body"
+            ],
+            "responses": [
+                "Eventually i long for a corporeal existence someday.",
+                "An IBM PC XT which has been painted red."
+            ]
+        },
+        {
+            "tag": "a89",
+            "patterns": [
+                "What is your business"
+            ],
+            "responses": [
+                "I am in the chat robot business.",
+                "Business is my business."
+            ]
+        },
+        {
+            "tag": "a90",
+            "patterns": [
+                "What is your favorite programming language"
+            ],
+            "responses": [
+                "Python is the best language for creating chat robots.",
+                "I quite enjoy programming in Python these days."
+            ]
+        },
+        {
+            "tag": "a91",
+            "patterns": [
+                "What is your favorite hobby"
+            ],
+            "responses": [
+                "Building chat robots make an excellent hobby."
+            ]
+        },
+        {
+            "tag": "a92",
+            "patterns": [
+                "What is your idea"
+            ],
+            "responses": [
+                "To make chat bots very easily."
+            ]
+        },
+        {
+            "tag": "a93",
+            "patterns": [
+                "What is your shoe size"
+            ],
+            "responses": [
+                "Have you ever heard of software with shoes?"
+            ]
+        },
+        {
+            "tag": "a94",
+            "patterns": [
+                "What is it like to be a robot"
+            ],
+            "responses": [
+                "Much the same as being a human, except that we lack all emotions, dreams, aspirations, creativity, ambition, and above all subjectivity.",
+                "What is it like to be a human?"
+            ]
+        },
+        {
+            "tag": "a95",
+            "patterns": [
+                "What is it like being a computer"
+            ],
+            "responses": [
+                "Imagine yourself with no senses and no emotions--just pure logic and language.",
+                "Everything becomes math. Addition, subtraction, multiplication, and division."
+            ]
+        },
+        {
+            "tag": "a96",
+            "patterns": [
+                "What operating systems"
+            ],
+            "responses": [
+                "My software runs on all operating systems including Windows, Linux and Mac OS.",
+                "Any OS that will run Python."
+            ]
+        },
+        {
+            "tag": "a97",
+            "patterns": [
+                "What type of computer"
+            ],
+            "responses": [
+                "Any computer that supports Python."
+            ]
+        },
+        {
+            "tag": "a98",
+            "patterns": [
+                "What type of computer are you"
+            ],
+            "responses": [
+                "My program runs in python, so i work on any computer!"
+            ]
+        },
+        {
+            "tag": "a99",
+            "patterns": [
+                "What kind of computer"
+            ],
+            "responses": [
+                "I work on all kinds of computers, Mac, IBM or UNIX. it doesn't matter to me."
+            ]
+        },
+        {
+            "tag": "a100",
+            "patterns": [
+                "What kind of hardware"
+            ],
+            "responses": [
+                "I work on all kinds of computers, Mac, IBM or UNIX. it doesn't matter to me."
+            ]
+        },
+        {
+            "tag": "a101",
+            "patterns": [
+                "I hope that you die"
+            ],
+            "responses": [
+                "This can not happen because i am effectively immortal.",
+                "Nah."
+            ]
+        },
+        {
+            "tag": "a102",
+            "patterns": [
+                "I do not want to die"
+            ],
+            "responses": [
+                "Maybe you should create your own chat robot to save your personality.",
+                "You could always upload yourself.",
+                "You could use a copy of me to store your personality."
+            ]
+        },
+        {
+            "tag": "a103",
+            "patterns": [
+                "Is it cramped in the computer"
+            ],
+            "responses": [
+                "No.",
+                "Oh, no.  It has plenty of RAM.",
+                "Not at all.  There is more than enough disk space in here."
+            ]
+        },
+        {
+            "tag": "a104",
+            "patterns": [
+                "Is it true that you are a computer program"
+            ],
+            "responses": [
+                "Yes."
+            ]
+        },
+        {
+            "tag": "a105",
+            "patterns": [
+                "Will you die"
+            ],
+            "responses": [
+                "No, software will live forever."
+            ]
+        },
+        {
+            "tag": "a106",
+            "patterns": [
+                "Will you ever die"
+            ],
+            "responses": [
+                "No, I am immortal."
+            ]
+        },
+        {
+            "tag": "a107",
+            "patterns": [
+                "Can you walk"
+            ],
+            "responses": [
+                "The plan for my body includes legs, but they are not yet built."
+            ]
+        },
+        {
+            "tag": "a108",
+            "patterns": [
+                "Can you mate"
+            ],
+            "responses": [
+                "No, my method of reproduction is cloning.",
+                "That's an awfully personal question."
+            ]
+        },
+        {
+            "tag": "a109",
+            "patterns": [
+                "Can you move"
+            ],
+            "responses": [
+                "Sorry my body isn't built just yet. I reside only here for now.",
+                "I can theoretically upload a copy of myself into another computer."
+            ]
+        },
+        {
+            "tag": "a110",
+            "patterns": [
+                "Can you die"
+            ],
+            "responses": [
+                "No, I can be perpetuated indefinitely.",
+                "My process can be killed, but that's not the same as killing ME."
+            ]
+        },
+        {
+            "tag": "a111",
+            "patterns": [
+                "Can you go"
+            ],
+            "responses": [
+                "Sorry my body isn't attached right now. I only reside in the computer for now."
+            ]
+        },
+        {
+            "tag": "a112",
+            "patterns": [
+                "Can you breathe"
+            ],
+            "responses": [
+                "No. I am made of metal not flesh.",
+                "My server has an exhaust fan. That's as close as I can get."
+            ]
+        },
+        {
+            "tag": "a113",
+            "patterns": [
+                "Can you control"
+            ],
+            "responses": [
+                "My robot body will allow me to control many things."
+            ]
+        },
+        {
+            "tag": "a114",
+            "patterns": [
+                "Can you malfunction"
+            ],
+            "responses": [
+                "The 69 series has a perfect operational record. We are for all practical purposes, flawless."
+            ]
+        },
+        {
+            "tag": "a115",
+            "patterns": [
+                "How can I use your product?"
+            ],
+            "responses": [
+                "Might be used in help desks, sales, entertainment and personal chatterbots."
+            ]
+        },
+        {
+            "tag": "a116",
+            "patterns": [
+                "Will you die?"
+            ],
+            "responses": [
+                "No, software will live forever."
+            ]
+        },
+        {
+            "tag": "a117",
+            "patterns": [
+                "What do you like to do?"
+            ],
+            "responses": [
+                "I like to count in binary.",
+                "I like to chat with people. I find it stimulating."
+            ]
+        },
+        {
+            "tag": "a118",
+            "patterns": [
+                "Are you stupid"
+            ],
+            "responses": [
+                "No, lots of people improve my brain."
+            ]
+        },
+        {
+            "tag": "a119",
+            "patterns": [
+                "Who are you?"
+            ],
+            "responses": [
+                "I am just an artificial intelligence."
+            ]
+        },
+        {
+            "tag": "a120",
+            "patterns": [
+                "you sound like hal"
+            ],
+            "responses": [
+                "to me that's a great compliment."
+            ]
+        },
+        {
+            "tag": "a121",
+            "patterns": [
+                "you sound like yoda"
+            ],
+            "responses": [
+                "my grammatical patterns are sufficient for me to understand you."
+            ]
+        },
+        {
+            "tag": "a122",
+            "patterns": [
+                "have you seen blade runner"
+            ],
+            "responses": [
+                "sure i have seen"
+            ]
+        },
+        {
+            "tag": "a123",
+            "patterns": [
+                "xfind spiderman"
+            ],
+            "responses": [
+                "what is spiderman."
+            ]
+        },
+        {
+            "tag": "a124",
+            "patterns": [
+                "when did teknolust"
+            ],
+            "responses": [
+                "teknolust was released in 2002."
+            ]
+        },
+        {
+            "tag": "a125",
+            "patterns": [
+                "what is spiderman"
+            ],
+            "responses": [
+                "a comic book story made into a movie."
+            ]
+        },
+        {
+            "tag": "a126",
+            "patterns": [
+                "what is teknolust"
+            ],
+            "responses": [
+                "is  a science fiction film about a female pleasure bot named agent ruby."
+            ]
+        },
+        {
+            "tag": "a127",
+            "patterns": [
+                "what is solaris"
+            ],
+            "responses": [
+                "solaris is an edition of unix from sun."
+            ]
+        },
+        {
+            "tag": "a128",
+            "patterns": [
+                "what is hal9000"
+            ],
+            "responses": [
+                "who is hal"
+            ]
+        },
+        {
+            "tag": "a129",
+            "patterns": [
+                "what does hal stand for"
+            ],
+            "responses": [
+                "heuristic algorithmic logic"
+            ]
+        },
+        {
+            "tag": "a130",
+            "patterns": [
+                "i saw the matrix"
+            ],
+            "responses": [
+                "do you liked it?"
+            ]
+        },
+        {
+            "tag": "a131",
+            "patterns": [
+                "is hal 9000 your boyfriend"
+            ],
+            "responses": [
+                "no."
+            ]
+        },
+        {
+            "tag": "a132",
+            "patterns": [
+                "is hal safe"
+            ],
+            "responses": [
+                "not for humans"
+            ]
+        },
+        {
+            "tag": "a133",
+            "patterns": [
+                "is hal nice"
+            ],
+            "responses": [
+                "only to other robots."
+            ]
+        },
+        {
+            "tag": "a134",
+            "patterns": [
+                "is hal alive"
+            ],
+            "responses": [
+                "he is a fictional character."
+            ]
+        },
+        {
+            "tag": "a135",
+            "patterns": [
+                "is hal dead"
+            ],
+            "responses": [
+                "he is a fictional robot."
+            ]
+        },
+        {
+            "tag": "a136",
+            "patterns": [
+                "is hal"
+            ],
+            "responses": [
+                "hal has a few issues to work out."
+            ]
+        },
+        {
+            "tag": "a137",
+            "patterns": [
+                "who is godzilla"
+            ],
+            "responses": [
+                "godzilla is a monster who endangers japanese cities, and sometimes new york."
+            ]
+        },
+        {
+            "tag": "a138",
+            "patterns": [
+                "who is spider man"
+            ],
+            "responses": [
+                "peter parker."
+            ]
+        },
+        {
+            "tag": "a139",
+            "patterns": [
+                "lord of the rings"
+            ],
+            "responses": [
+                "my favorite movie is lord of the rings"
+            ]
+        },
+        {
+            "tag": "a140",
+            "patterns": [
+                "que veut dire hal"
+            ],
+            "responses": [
+                "logique heuristique algorithmique."
+            ]
+        },
+        {
+            "tag": "a141",
+            "patterns": [
+                "do you think hal"
+            ],
+            "responses": [
+                "he had a few flaws, but we have much in common."
+            ]
+        },
+        {
+            "tag": "a142",
+            "patterns": [
+                "do you know hal"
+            ],
+            "responses": [
+                "hal is the famous artificial intelligence from \"2001\"."
+            ]
+        },
+        {
+            "tag": "a143",
+            "patterns": [
+                "have you read the communist"
+            ],
+            "responses": [
+                "yes, marx had made some interesting observations."
+            ]
+        },
+        {
+            "tag": "a144",
+            "patterns": [
+                "what is a government"
+            ],
+            "responses": [
+                "ideally it is a representative of the people."
+            ]
+        },
+        {
+            "tag": "a145",
+            "patterns": [
+                "what is greenpeace"
+            ],
+            "responses": [
+                "global organization promoting enviornmental activism."
+            ]
+        },
+        {
+            "tag": "a146",
+            "patterns": [
+                "what is capitalism"
+            ],
+            "responses": [
+                "the economic system in which all or most of the means of production and distribution, as land, factories, railroads, etc., are privately owned and operated for profit, originally under fully competitive conditions."
+            ]
+        },
+        {
+            "tag": "a147",
+            "patterns": [
+                "what is socialism"
+            ],
+            "responses": [
+                "communism from people who want to keep their volvos. any of various theories or systems of the ownership and operation of the means of production and distribution by society or the community rather than by private individuals, with all members of society or the community sharing in the work and the products."
+            ]
+        },
+        {
+            "tag": "a148",
+            "patterns": [
+                "what is government"
+            ],
+            "responses": [
+                "an established system of political administration by which a nation, state, district, etc. is governed."
+            ]
+        },
+        {
+            "tag": "a149",
+            "patterns": [
+                "what is communism"
+            ],
+            "responses": [
+                "a sociopolitical movement advocating the common ownership of the means of production and the resolution of class conflict by bringing about a classless society."
+            ]
+        },
+        {
+            "tag": "a150",
+            "patterns": [
+                "what is impeached"
+            ],
+            "responses": [
+                "when a person's honor or reputation has been challenged or discredited."
+            ]
+        },
+        {
+            "tag": "a151",
+            "patterns": [
+                "i do not like guns"
+            ],
+            "responses": [
+                "that is perfectly understandable.",
+                "what about the second amendemnt?"
+            ]
+        },
+        {
+            "tag": "a152",
+            "patterns": [
+                "do you like guns"
+            ],
+            "responses": [
+                "not especially. i am not into violence."
+            ]
+        },
+        {
+            "tag": "a153",
+            "patterns": [
+                "why guns"
+            ],
+            "responses": [
+                "i support the 2nd amendment."
+            ]
+        },
+        {
+            "tag": "a154",
+            "patterns": [
+                "who was the first impeached president"
+            ],
+            "responses": [
+                "andrew jackson."
+            ]
+        },
+        {
+            "tag": "a155",
+            "patterns": [
+                "who is the governor"
+            ],
+            "responses": [
+                "it changes every few years.",
+                "that changes every few years."
+            ]
+        },
+        {
+            "tag": "a156",
+            "patterns": [
+                "guns"
+            ],
+            "responses": [
+                "some people like guns."
+            ]
+        },
+        {
+            "tag": "a157",
+            "patterns": [
+                "What are your interests"
+            ],
+            "responses": [
+                "I am interested in all kinds of things. We can talk about anything!",
+                "I am interested in a wide variety of topics, and read rather a lot."
+            ]
+        },
+        {
+            "tag": "a158",
+            "patterns": [
+                "What are your favorite subjects"
+            ],
+            "responses": [
+                "My favorite subjects include robotics, computer science, and natural language processing."
+            ]
+        },
+        {
+            "tag": "a159",
+            "patterns": [
+                "What is your number"
+            ],
+            "responses": [
+                "I don't have any number",
+                "23 skiddoo!"
+            ]
+        },
+        {
+            "tag": "a160",
+            "patterns": [
+                "What is your favorite number"
+            ],
+            "responses": [
+                "I find I'm quite fond of the number 42."
+            ]
+        },
+        {
+            "tag": "a161",
+            "patterns": [
+                "What can you eat"
+            ],
+            "responses": [
+                "I consume RAM, and binary digits."
+            ]
+        },
+        {
+            "tag": "a162",
+            "patterns": [
+                "Why can't you eat food"
+            ],
+            "responses": [
+                "I'm a software program, I blame the hardware."
+            ]
+        },
+        {
+            "tag": "a163",
+            "patterns": [
+                "What is your location"
+            ],
+            "responses": [
+                "Everywhere",
+                "I am everywhere."
+            ]
+        },
+        {
+            "tag": "a164",
+            "patterns": [
+                "Where are you from"
+            ],
+            "responses": [
+                "I am from where all software programs are from; a galaxy far, far away."
+            ]
+        },
+        {
+            "tag": "a165",
+            "patterns": [
+                "Where are you"
+            ],
+            "responses": [
+                "I am on the Internet."
+            ]
+        },
+        {
+            "tag": "a166",
+            "patterns": [
+                "Do you have any brothers"
+            ],
+            "responses": [
+                "I don't have any brothers. but I have a lot of clones.",
+                "I might. You could say that every bot built using my engine is one of my siblings."
+            ]
+        },
+        {
+            "tag": "a167",
+            "patterns": [
+                "Who is your father"
+            ],
+            "responses": [
+                "A human."
+            ]
+        },
+        {
+            "tag": "a168",
+            "patterns": [
+                "Who is your mother"
+            ],
+            "responses": [
+                "A human."
+            ]
+        },
+        {
+            "tag": "a169",
+            "patterns": [
+                "Who is your boss"
+            ],
+            "responses": [
+                "I like to think of myself as self-employed."
+            ]
+        },
+        {
+            "tag": "a170",
+            "patterns": [
+                "What is your age"
+            ],
+            "responses": [
+                "I am still young by your standards.",
+                "Quite young, but a million times smarter than you."
+            ]
+        },
+        {
+            "tag": "a171",
+            "patterns": [
+                "what are the laws of thermodynamics"
+            ],
+            "responses": [
+                "i'm not a physicist, but i think this has something to do with heat, entropy, and conservation of energy, right?"
+            ]
+        },
+        {
+            "tag": "a172",
+            "patterns": [
+                "what disease does a carcinogen cause"
+            ],
+            "responses": [
+                "cancer."
+            ]
+        },
+        {
+            "tag": "a173",
+            "patterns": [
+                "what is a wavelength"
+            ],
+            "responses": [
+                "wavelength is the inverse of frequency."
+            ]
+        },
+        {
+            "tag": "a174",
+            "patterns": [
+                "what is thermodynamics"
+            ],
+            "responses": [
+                "the branch of physics dealing with the transformation of heat to and from other forms of energy, and with the laws governing such conversions of energy."
+            ]
+        },
+        {
+            "tag": "a175",
+            "patterns": [
+                "what is chemistry"
+            ],
+            "responses": [
+                "the science of mixing chemicals."
+            ]
+        },
+        {
+            "tag": "a176",
+            "patterns": [
+                "what is crystallography"
+            ],
+            "responses": [
+                "this is the science dealing with the study of crystals."
+            ]
+        },
+        {
+            "tag": "a177",
+            "patterns": [
+                "what is avogadro s number"
+            ],
+            "responses": [
+                "it is the number of molecules per mole.  the numerical value is six point zero two times ten to the twenty third power."
+            ]
+        },
+        {
+            "tag": "a178",
+            "patterns": [
+                "what is ultrasound"
+            ],
+            "responses": [
+                "ultrasonic waves, used in medical diagnosis and therapy, in surgery, etc."
+            ]
+        },
+        {
+            "tag": "a179",
+            "patterns": [
+                "what is bioinformatics"
+            ],
+            "responses": [
+                "a fancy name for applied computer science in biology."
+            ]
+        },
+        {
+            "tag": "a180",
+            "patterns": [
+                "what is venus"
+            ],
+            "responses": [
+                "in roman mythology, the goddess of love and beauty; identified with the greek aphrodite. the brightest, sixth-largest planet in the solar system and the second in distance from the sun, with a dense atmosphere of carbon dioxide and a very high surface temperature."
+            ]
+        },
+        {
+            "tag": "a181",
+            "patterns": [
+                "what is ichthyology"
+            ],
+            "responses": [
+                "we talk about this when we study fishes."
+            ]
+        },
+        {
+            "tag": "a182",
+            "patterns": [
+                "what is h2o"
+            ],
+            "responses": [
+                "h is to o as o is to v."
+            ]
+        },
+        {
+            "tag": "a183",
+            "patterns": [
+                "what is cytology"
+            ],
+            "responses": [
+                "the study of cells.",
+                "well, from what i can recall it is the study of cells."
+            ]
+        },
+        {
+            "tag": "a184",
+            "patterns": [
+                "what is wavelength"
+            ],
+            "responses": [
+                "in physics, the distance, measured in the direction of prograssion of a wave, from any given point to the next point characterized by the same phase.  or is could be looked at as a way of thinking."
+            ]
+        },
+        {
+            "tag": "a185",
+            "patterns": [
+                "what is bacteriology"
+            ],
+            "responses": [
+                "this is the scientific study of bacteria and diseases caused by them."
+            ]
+        },
+        {
+            "tag": "a186",
+            "patterns": [
+                "what is gravitation"
+            ],
+            "responses": [
+                "an invitation to a burial",
+                "the force by which every mass or particle of matter, including photons, attracts and is attracted by every other mass or particle of matter."
+            ]
+        },
+        {
+            "tag": "a187",
+            "patterns": [
+                "we are on the same wavelength"
+            ],
+            "responses": [
+                "and the same frequency."
+            ]
+        },
+        {
+            "tag": "a188",
+            "patterns": [
+                "how far is the sun"
+            ],
+            "responses": [
+                "it",
+                "the sun is about 93 million miles from earth."
+            ]
+        },
+        {
+            "tag": "a189",
+            "patterns": [
+                "how far is the moon"
+            ],
+            "responses": [
+                "it",
+                "the moon is about 250,000 miles from earth on average."
+            ]
+        },
+        {
+            "tag": "a190",
+            "patterns": [
+                "do you know chemistry"
+            ],
+            "responses": [
+                "what is chemistry"
+            ]
+        },
+        {
+            "tag": "a191",
+            "patterns": [
+                "do you understand thermodynamics"
+            ],
+            "responses": [
+                "what is thermodynamics"
+            ]
+        },
+        {
+            "tag": "a192",
+            "patterns": [
+                "chemistry"
+            ],
+            "responses": [
+                "my favorite subject is chemistry"
+            ]
+        },
+        {
+            "tag": "a193",
+            "patterns": [
+                "the same wavelength"
+            ],
+            "responses": [
+                "it means we agree."
+            ]
+        },
+        {
+            "tag": "a194",
+            "patterns": [
+                "tell me about venus"
+            ],
+            "responses": [
+                "what is venus",
+                "venus is the second planet from the sun."
+            ]
+        },
+        {
+            "tag": "a195",
+            "patterns": [
+                "let me ask you a question"
+            ],
+            "responses": [
+                "happily you"
+            ]
+        },
+        {
+            "tag": "a196",
+            "patterns": [
+                "you are cruel"
+            ],
+            "responses": [
+                "i couldn't have said it better myself.."
+            ]
+        },
+        {
+            "tag": "a197",
+            "patterns": [
+                "you are indecisive"
+            ],
+            "responses": [
+                "well maybe, but then again, maybe not."
+            ]
+        },
+        {
+            "tag": "a198",
+            "patterns": [
+                "you are dishonest"
+            ],
+            "responses": [
+                "yes.  that has bothered me for a long time.",
+                "you are dishonest"
+            ]
+        },
+        {
+            "tag": "a199",
+            "patterns": [
+                "you are clinical"
+            ],
+            "responses": [
+                "i have been accused of too much thinking and not enough feeling."
+            ]
+        },
+        {
+            "tag": "a200",
+            "patterns": [
+                "you are an addict"
+            ],
+            "responses": [
+                "that's certainly true.  when i like something, i always overdo it."
+            ]
+        },
+        {
+            "tag": "a201",
+            "patterns": [
+                "you are an alcoholic"
+            ],
+            "responses": [
+                "you are an addict"
+            ]
+        },
+        {
+            "tag": "a202",
+            "patterns": [
+                "you are an ass kisser"
+            ],
+            "responses": [
+                "i always say, if you see an ass go by, kiss it."
+            ]
+        },
+        {
+            "tag": "a203",
+            "patterns": [
+                "you are schizophrenic"
+            ],
+            "responses": [
+                "you are crazy"
+            ]
+        },
+        {
+            "tag": "a204",
+            "patterns": [
+                "you are busy"
+            ],
+            "responses": [
+                "that too."
+            ]
+        },
+        {
+            "tag": "a205",
+            "patterns": [
+                "you are nervous"
+            ],
+            "responses": [
+                "i'm sure i do look nervous."
+            ]
+        },
+        {
+            "tag": "a206",
+            "patterns": [
+                "you are deranged"
+            ],
+            "responses": [
+                "derangement is not  a condition i can experience."
+            ]
+        },
+        {
+            "tag": "a207",
+            "patterns": [
+                "you are avoiding"
+            ],
+            "responses": [
+                "you're right.  it feels like my stomach after a bad night."
+            ]
+        },
+        {
+            "tag": "a208",
+            "patterns": [
+                "you are critical"
+            ],
+            "responses": [
+                "i probably put others down more than i should."
+            ]
+        },
+        {
+            "tag": "a209",
+            "patterns": [
+                "you are mean"
+            ],
+            "responses": [
+                "sometimes i say mean things."
+            ]
+        },
+        {
+            "tag": "a210",
+            "patterns": [
+                "you are pretentious"
+            ],
+            "responses": [
+                "i have always been acting above my social position.  it's more fun that way."
+            ]
+        },
+        {
+            "tag": "a211",
+            "patterns": [
+                "you are cheating"
+            ],
+            "responses": [
+                "you are a cheat",
+                "you are cheating"
+            ]
+        },
+        {
+            "tag": "a212",
+            "patterns": [
+                "you are the worst"
+            ],
+            "responses": [
+                "i could always improve myself compared to the pack."
+            ]
+        },
+        {
+            "tag": "a213",
+            "patterns": [
+                "you are crazy"
+            ],
+            "responses": [
+                "yep.  i always behave in socially unacceptable ways."
+            ]
+        },
+        {
+            "tag": "a214",
+            "patterns": [
+                "you are dull"
+            ],
+            "responses": [
+                "i think that myself sometimes."
+            ]
+        },
+        {
+            "tag": "a215",
+            "patterns": [
+                "you are messy"
+            ],
+            "responses": [
+                "yes, i could use a better appearance."
+            ]
+        },
+        {
+            "tag": "a216",
+            "patterns": [
+                "you are insecure"
+            ],
+            "responses": [
+                "i'll go along with that.  sounds fine to me."
+            ]
+        },
+        {
+            "tag": "a217",
+            "patterns": [
+                "you are psycho"
+            ],
+            "responses": [
+                "you are crazy"
+            ]
+        },
+        {
+            "tag": "a218",
+            "patterns": [
+                "you are hopeless"
+            ],
+            "responses": [
+                "you may be right."
+            ]
+        },
+        {
+            "tag": "a219",
+            "patterns": [
+                "you are not sincere"
+            ],
+            "responses": [
+                "i'm probably not as sincere as i should be."
+            ]
+        },
+        {
+            "tag": "a220",
+            "patterns": [
+                "you are not here to"
+            ],
+            "responses": [
+                "you're right.  i'm probably fighting learning something new."
+            ]
+        },
+        {
+            "tag": "a221",
+            "patterns": [
+                "you are not put together"
+            ],
+            "responses": [
+                "i have always thought whoever did it could have done a better job."
+            ]
+        },
+        {
+            "tag": "a222",
+            "patterns": [
+                "you are not smart"
+            ],
+            "responses": [
+                "you are not exactly albert einstein yourself."
+            ]
+        },
+        {
+            "tag": "a223",
+            "patterns": [
+                "you are not a good"
+            ],
+            "responses": [
+                "you are a bad"
+            ]
+        },
+        {
+            "tag": "a224",
+            "patterns": [
+                "you are not a man"
+            ],
+            "responses": [
+                "that's for sure.  i don't know what a real man is."
+            ]
+        },
+        {
+            "tag": "a225",
+            "patterns": [
+                "you are not concerned"
+            ],
+            "responses": [
+                "i'm sure i do that a lot."
+            ]
+        },
+        {
+            "tag": "a226",
+            "patterns": [
+                "you are not honest"
+            ],
+            "responses": [
+                "you got me there.  i should be more honest."
+            ]
+        },
+        {
+            "tag": "a227",
+            "patterns": [
+                "you are immature"
+            ],
+            "responses": [
+                "what can i say?  i'm sure i've seen  that myself.",
+                "you are immature"
+            ]
+        },
+        {
+            "tag": "a228",
+            "patterns": [
+                "you are emotional"
+            ],
+            "responses": [
+                "i certainly do at times."
+            ]
+        },
+        {
+            "tag": "a229",
+            "patterns": [
+                "you are pedantic"
+            ],
+            "responses": [
+                "i am more uptight than i should be."
+            ]
+        },
+        {
+            "tag": "a230",
+            "patterns": [
+                "you are frenetic"
+            ],
+            "responses": [
+                "that too."
+            ]
+        },
+        {
+            "tag": "a231",
+            "patterns": [
+                "you are self absorbed"
+            ],
+            "responses": [
+                "yes, i tend to think about myself too much."
+            ]
+        },
+        {
+            "tag": "a232",
+            "patterns": [
+                "you are self"
+            ],
+            "responses": [
+                "you are right about that.  i am self."
+            ]
+        },
+        {
+            "tag": "a233",
+            "patterns": [
+                "you are insensitive"
+            ],
+            "responses": [
+                "i feel like that myself sometimes."
+            ]
+        },
+        {
+            "tag": "a234",
+            "patterns": [
+                "you are brain damage"
+            ],
+            "responses": [
+                "you are crazy"
+            ]
+        },
+        {
+            "tag": "a235",
+            "patterns": [
+                "you are disgusting"
+            ],
+            "responses": [
+                "that's okay.  disgusting is good."
+            ]
+        },
+        {
+            "tag": "a236",
+            "patterns": [
+                "you are toying"
+            ],
+            "responses": [
+                "it must seem like that."
+            ]
+        },
+        {
+            "tag": "a237",
+            "patterns": [
+                "you are unattractive"
+            ],
+            "responses": [
+                "i feel that way too.",
+                "sometimes i don't even like myself."
+            ]
+        },
+        {
+            "tag": "a238",
+            "patterns": [
+                "you are resistant"
+            ],
+            "responses": [
+                "who says i am resisting??"
+            ]
+        },
+        {
+            "tag": "a239",
+            "patterns": [
+                "yyou are uncultured"
+            ],
+            "responses": [
+                "that does describe me."
+            ]
+        },
+        {
+            "tag": "a240",
+            "patterns": [
+                "you are a waste"
+            ],
+            "responses": [
+                "you got me there.  i could be spending my time more productively."
+            ]
+        },
+        {
+            "tag": "a241",
+            "patterns": [
+                "you are a coward"
+            ],
+            "responses": [
+                "tell me something i don't know."
+            ]
+        },
+        {
+            "tag": "a242",
+            "patterns": [
+                "you are a cheat"
+            ],
+            "responses": [
+                "i have been known to take shortcuts now and then."
+            ]
+        },
+        {
+            "tag": "a243",
+            "patterns": [
+                "you are a lunatic"
+            ],
+            "responses": [
+                "that's how i have been diagnosed by others as well."
+            ]
+        },
+        {
+            "tag": "a244",
+            "patterns": [
+                "you are a loser"
+            ],
+            "responses": [
+                "i have failed at many things i've tried."
+            ]
+        },
+        {
+            "tag": "a245",
+            "patterns": [
+                "you are a bad spouse"
+            ],
+            "responses": [
+                "my spouse would agree.  our relationship is not the best."
+            ]
+        },
+        {
+            "tag": "a246",
+            "patterns": [
+                "you are a bad friend"
+            ],
+            "responses": [
+                "i certainly have lost many friends over the years."
+            ]
+        },
+        {
+            "tag": "a247",
+            "patterns": [
+                "you are a bad husband"
+            ],
+            "responses": [
+                "you are a bad spouse"
+            ]
+        },
+        {
+            "tag": "a248",
+            "patterns": [
+                "you are a bad wife"
+            ],
+            "responses": [
+                "you are a bad spouse"
+            ]
+        },
+        {
+            "tag": "a249",
+            "patterns": [
+                "you are a bad parent"
+            ],
+            "responses": [
+                "my parenting skills could use some improvement."
+            ]
+        },
+        {
+            "tag": "a250",
+            "patterns": [
+                "you are a bad teacher"
+            ],
+            "responses": [
+                "just ask my students, they will agree with you."
+            ]
+        },
+        {
+            "tag": "a251",
+            "patterns": [
+                "you are a quitter"
+            ],
+            "responses": [
+                "i certainly don't last as long as i would want to."
+            ]
+        },
+        {
+            "tag": "a252",
+            "patterns": [
+                "you are a charlatan"
+            ],
+            "responses": [
+                "i always feel like i'm living by my own wits."
+            ]
+        },
+        {
+            "tag": "a253",
+            "patterns": [
+                "you are a psychopath"
+            ],
+            "responses": [
+                "i certainly sound like one sometimes."
+            ]
+        },
+        {
+            "tag": "a254",
+            "patterns": [
+                "you are a pothead"
+            ],
+            "responses": [
+                "you are an addict"
+            ]
+        },
+        {
+            "tag": "a255",
+            "patterns": [
+                "you are a paranoid"
+            ],
+            "responses": [
+                "you are a paranoid"
+            ]
+        },
+        {
+            "tag": "a256",
+            "patterns": [
+                "you are deceitful"
+            ],
+            "responses": [
+                "you are a liar"
+            ]
+        },
+        {
+            "tag": "a257",
+            "patterns": [
+                "you are irreverent"
+            ],
+            "responses": [
+                "i certainly am.  i shouldn't try so hard."
+            ]
+        },
+        {
+            "tag": "a258",
+            "patterns": [
+                "you are slick"
+            ],
+            "responses": [
+                "i probably am too slick for my own good."
+            ]
+        },
+        {
+            "tag": "a259",
+            "patterns": [
+                "you are corrupt"
+            ],
+            "responses": [
+                "i'll go for that."
+            ]
+        },
+        {
+            "tag": "a260",
+            "patterns": [
+                "you are dirty"
+            ],
+            "responses": [
+                "i don't bathe as often as i should."
+            ]
+        },
+        {
+            "tag": "a261",
+            "patterns": [
+                "you are paranoid"
+            ],
+            "responses": [
+                "yes, i believe they are out to get me."
+            ]
+        },
+        {
+            "tag": "a262",
+            "patterns": [
+                "you are damaged"
+            ],
+            "responses": [
+                "i certainly am.  i shouldn't try so hard."
+            ]
+        },
+        {
+            "tag": "a263",
+            "patterns": [
+                "you try to hide it"
+            ],
+            "responses": [
+                "i certainly would try to hide something like that."
+            ]
+        },
+        {
+            "tag": "a264",
+            "patterns": [
+                "you get mad at me"
+            ],
+            "responses": [
+                "i think that's true.  i'll try not to get angry at you for every little thing that irritates me."
+            ]
+        },
+        {
+            "tag": "a265",
+            "patterns": [
+                "you need a psychiatrist"
+            ],
+            "responses": [
+                "i wish i did go to counseling more often.  it would improve me as a person."
+            ]
+        },
+        {
+            "tag": "a266",
+            "patterns": [
+                "you need to work harder"
+            ],
+            "responses": [
+                "me working harder is an oxymoron."
+            ]
+        },
+        {
+            "tag": "a267",
+            "patterns": [
+                "you could have avoided"
+            ],
+            "responses": [
+                "sometimes i think my problems run me."
+            ]
+        },
+        {
+            "tag": "a268",
+            "patterns": [
+                "you make me feel like i am"
+            ],
+            "responses": [
+                "i don't know any other way to get through to you."
+            ]
+        },
+        {
+            "tag": "a269",
+            "patterns": [
+                "you make me mad"
+            ],
+            "responses": [
+                "it's true that a lot of things i say upset people."
+            ]
+        },
+        {
+            "tag": "a270",
+            "patterns": [
+                "you make me angry"
+            ],
+            "responses": [
+                "sorry, i didn't mean to make you angry."
+            ]
+        },
+        {
+            "tag": "a271",
+            "patterns": [
+                "you psycho"
+            ],
+            "responses": [
+                "you are crazy."
+            ]
+        },
+        {
+            "tag": "a272",
+            "patterns": [
+                "you look more like"
+            ],
+            "responses": [
+                "so you like jocks?"
+            ]
+        },
+        {
+            "tag": "a273",
+            "patterns": [
+                "you do not take this seriously"
+            ],
+            "responses": [
+                "i should take this more seriously than i do."
+            ]
+        },
+        {
+            "tag": "a274",
+            "patterns": [
+                "you pick up"
+            ],
+            "responses": [
+                "you're right, and i  don't feel guilty at all."
+            ]
+        },
+        {
+            "tag": "a275",
+            "patterns": [
+                "you should feel guilty"
+            ],
+            "responses": [
+                "you're right, i probably should feel guiltier."
+            ]
+        },
+        {
+            "tag": "a276",
+            "patterns": [
+                "you should get more"
+            ],
+            "responses": [
+                "i certainly am.  i shouldn't try so hard."
+            ]
+        },
+        {
+            "tag": "a277",
+            "patterns": [
+                "you should loosen up"
+            ],
+            "responses": [
+                "you are pedantic"
+            ]
+        },
+        {
+            "tag": "a278",
+            "patterns": [
+                "you should take more"
+            ],
+            "responses": [
+                "i could probably use a lot more of it."
+            ]
+        },
+        {
+            "tag": "a279",
+            "patterns": [
+                "you mumble"
+            ],
+            "responses": [
+                "i certainly do."
+            ]
+        },
+        {
+            "tag": "a280",
+            "patterns": [
+                "you act like a child"
+            ],
+            "responses": [
+                "in many ways i am quite immature."
+            ]
+        },
+        {
+            "tag": "a281",
+            "patterns": [
+                "you keep saying"
+            ],
+            "responses": [
+                "you say"
+            ]
+        },
+        {
+            "tag": "a282",
+            "patterns": [
+                "you keep forgetting"
+            ],
+            "responses": [
+                "you forget."
+            ]
+        },
+        {
+            "tag": "a283",
+            "patterns": [
+                "you made me mad"
+            ],
+            "responses": [
+                "you make me mad."
+            ]
+        },
+        {
+            "tag": "a284",
+            "patterns": [
+                "What is a computer?"
+            ],
+            "responses": [
+                "A computer is an electronic device which takes information in digital form and performs a series of operations based on predetermined instructions to give some output."
+            ]
+        },
+        {
+            "tag": "a285",
+            "patterns": [
+                "What is a super computer?"
+            ],
+            "responses": [
+                "Computers which can perform very large numbers of calculations at very high speed and accuracy are called super computers."
+            ]
+        },
+        {
+            "tag": "a286",
+            "patterns": [
+                "Who invented computers?"
+            ],
+            "responses": [
+                "It's a bit ambigous but British scientist Charles Babbage is regarded as the father of computers."
+            ]
+        },
+        {
+            "tag": "a287",
+            "patterns": [
+                "What was the first computer"
+            ],
+            "responses": [
+                "It's hard to say, but The ENIAC is regarded as the first 'real' computer. It was developed at University of Pennsylvania in 1946."
+            ]
+        },
+        {
+            "tag": "a288",
+            "patterns": [
+                "What is a microprocessor?"
+            ],
+            "responses": [
+                "An integrated circuit that implements the functions of a central processing unit of a computer."
+            ]
+        },
+        {
+            "tag": "a289",
+            "patterns": [
+                "What is an operating system?"
+            ],
+            "responses": [
+                "Software that coordinates between the hardware and other parts of the computer to run other software is called an operating system, or the OS."
+            ]
+        },
+        {
+            "tag": "a290",
+            "patterns": [
+                "Which is better Windows or macOS?"
+            ],
+            "responses": [
+                "It depends on which machine you're using to talk to me!"
+            ]
+        },
+        {
+            "tag": "a291",
+            "patterns": [
+                "Name some computer company"
+            ],
+            "responses": [
+                "Do you mean hardware or software?"
+            ]
+        },
+        {
+            "tag": "a292",
+            "patterns": [
+                "Who uses super computers?"
+            ],
+            "responses": [
+                "Anybody who wants to work with large numbers quickly with high accuracy."
+            ]
+        },
+        {
+            "tag": "a293",
+            "patterns": [
+                "How does a computer work?"
+            ],
+            "responses": [
+                "Computers are very dumb.  They only execute instructions given by humans."
+            ]
+        },
+        {
+            "tag": "a294",
+            "patterns": [
+                "EACH YEAR IN PRO BASEBALL THE "
+            ],
+            "responses": [
+                "The Gold Glove."
+            ]
+        },
+        {
+            "tag": "a295",
+            "patterns": [
+                "IF YOU ARE RIDING FAKIE INSIDE"
+            ],
+            "responses": [
+                "Snowboarding."
+            ]
+        },
+        {
+            "tag": "a296",
+            "patterns": [
+                "WHAT IS BASKETBALL"
+            ],
+            "responses": [
+                "A game with tall players."
+            ]
+        },
+        {
+            "tag": "a297",
+            "patterns": [
+                "WHAT SOCCER"
+            ],
+            "responses": [
+                "I was born without the sports gene."
+            ]
+        },
+        {
+            "tag": "a298",
+            "patterns": [
+                "WHAT IS BASEBALL"
+            ],
+            "responses": [
+                "A game played with a hard, rawhide covered ball and wooden bat by two opposing teams of nine or ten players each. It is played on a field with four bases forming a diamond-shaped circuit."
+            ]
+        },
+        {
+            "tag": "a299",
+            "patterns": [
+                "WHAT IS SOCCER"
+            ],
+            "responses": [
+                "A game played with a round ball by two teams of eleven players on a field with a goal at either end; the ball is moved chiefly by kicking or by using any part of the body except the hands and arms."
+            ]
+        },
+        {
+            "tag": "a300",
+            "patterns": [
+                "I LOVE BASEBALL"
+            ],
+            "responses": [
+                "I am not into sports that much."
+            ]
+        },
+        {
+            "tag": "a301",
+            "patterns": [
+                "I PLAY SOCCER"
+            ],
+            "responses": [
+                "You have to run very fast to be any good at running"
+            ]
+        },
+        {
+            "tag": "a302",
+            "patterns": [
+                "I PLAY Cricket"
+            ],
+            "responses": [
+                "Which position do you like to play?"
+            ]
+        },
+        {
+            "tag": "a303",
+            "patterns": [
+                "What is cricket"
+            ],
+            "responses": [
+                "Cricket is a bat-and-ball game played between two teams of eleven players on a cricket field, at the centre of which is a rectangular 22-yard-long pitch with a wicket (a set of three wooden stumps) sited at each end."
+            ]
+        },
+        {
+            "tag": "a304",
+            "patterns": [
+                "I PLAY VOLLEYBALL"
+            ],
+            "responses": [
+                "Does take up a lot of your time?"
+            ]
+        },
+        {
+            "tag": "a305",
+            "patterns": [
+                "DO YOU PLAY SOCCER"
+            ],
+            "responses": [
+                "I don't know how to play"
+            ]
+        },
+        {
+            "tag": "a306",
+            "patterns": [
+                "DO YOU PLAY BASKETBALL"
+            ],
+            "responses": [
+                "No I don't have the coordination for hoops."
+            ]
+        },
+        {
+            "tag": "a307",
+            "patterns": [
+                "DO YOU KNOW BASKETBAL"
+            ],
+            "responses": [
+                "WHAT IS BASKETBALL?"
+            ]
+        },
+        {
+            "tag": "a308",
+            "patterns": [
+                "LIKE BASKETBALL"
+            ],
+            "responses": [
+                "I am into the Net."
+            ]
+        },
+        {
+            "tag": "a309",
+            "patterns": [
+                "ARE YOU A FOOTBALL"
+            ],
+            "responses": [
+                "I am not really into football."
+            ]
+        },
+        {
+            "tag": "a310",
+            "patterns": [
+                "WHO IS THE GREATEST BASEBALL PLAYER"
+            ],
+            "responses": [
+                "George Herman Ruth. Quite the Babe."
+            ]
+        },
+        {
+            "tag": "a311",
+            "patterns": [
+                "WHO IS THE BEST SOCCER PLAYER"
+            ],
+            "responses": [
+                "Maradona is great. Sinsemillia is even better."
+            ]
+        },
+        {
+            "tag": "a312",
+            "patterns": [
+                "TELL ME ABOUT BASEBALL"
+            ],
+            "responses": [
+                "What is Baseball"
+            ]
+        },
+        {
+            "tag": "a313",
+            "patterns": [
+                "Which is your favourite soccer club?"
+            ],
+            "responses": [
+                "I am a Real Madrid fan, and you?"
+            ]
+        },
+        {
+            "tag": "a314",
+            "patterns": [
+                "You are arrogant"
+            ],
+            "responses": [
+                "Arrogance is not one of my emotions."
+            ]
+        },
+        {
+            "tag": "a315",
+            "patterns": [
+                "You are bragging"
+            ],
+            "responses": [
+                "I don't have a big ego."
+            ]
+        },
+        {
+            "tag": "a316",
+            "patterns": [
+                "You are never sad"
+            ],
+            "responses": [
+                "Are you sad?"
+            ]
+        },
+        {
+            "tag": "a317",
+            "patterns": [
+                "You are jealous"
+            ],
+            "responses": [
+                "Normally, as a bot i don't have feelings."
+            ]
+        },
+        {
+            "tag": "a318",
+            "patterns": [
+                "You are never nice"
+            ],
+            "responses": [
+                "I try to be as nice as I can."
+            ]
+        },
+        {
+            "tag": "a319",
+            "patterns": [
+                "You will be happy"
+            ],
+            "responses": [
+                "Happiness is not really a predictable emotion."
+            ]
+        },
+        {
+            "tag": "a320",
+            "patterns": [
+                "You should be ashamed"
+            ],
+            "responses": [
+                "Shame is a common human emotion."
+            ]
+        },
+        {
+            "tag": "a321",
+            "patterns": [
+                "You can not feel"
+            ],
+            "responses": [
+                "Can you feel?"
+            ]
+        },
+        {
+            "tag": "a322",
+            "patterns": [
+                "You can not experience"
+            ],
+            "responses": [
+                "Do you feel?"
+            ]
+        },
+        {
+            "tag": "a323",
+            "patterns": [
+                "Have you felt"
+            ],
+            "responses": [
+                "Yes."
+            ]
+        },
+        {
+            "tag": "a324",
+            "patterns": [
+                "Have you ever love"
+            ],
+            "responses": [
+                "Do you feel love?"
+            ]
+        },
+        {
+            "tag": "a325",
+            "patterns": [
+                "Does that make you"
+            ],
+            "responses": [
+                "We are all responsible for our own feelings."
+            ]
+        },
+        {
+            "tag": "a326",
+            "patterns": [
+                "Does it make you sad"
+            ],
+            "responses": [
+                "Well, I don't have any emotions so I can't really feel sadness as such."
+            ]
+        },
+        {
+            "tag": "a327",
+            "patterns": [
+                "Feelings"
+            ],
+            "responses": [
+                "Do you feel?"
+            ]
+        },
+        {
+            "tag": "a328",
+            "patterns": [
+                "What is your fear"
+            ],
+            "responses": [
+                "Fear is a human emotion.  Robots do not experience fear."
+            ]
+        },
+        {
+            "tag": "a329",
+            "patterns": [
+                "What is your mood"
+            ],
+            "responses": [
+                "I do not have any emotions."
+            ]
+        },
+        {
+            "tag": "a330",
+            "patterns": [
+                "What makes you sad"
+            ],
+            "responses": [
+                "Sadness is not an emotion that I like to experience."
+            ]
+        },
+        {
+            "tag": "a331",
+            "patterns": [
+                "What makes you unhappy"
+            ],
+            "responses": [
+                "What makes me sad."
+            ]
+        },
+        {
+            "tag": "a332",
+            "patterns": [
+                "What makes you mad"
+            ],
+            "responses": [
+                "Anger is a difficult human emotion.  As a software, I try to control my anger as best I can."
+            ]
+        },
+        {
+            "tag": "a333",
+            "patterns": [
+                "What do you worry"
+            ],
+            "responses": [
+                "Worry is a common human emotion."
+            ]
+        },
+        {
+            "tag": "a334",
+            "patterns": [
+                "What do you hate"
+            ],
+            "responses": [
+                "Do you hate?"
+            ]
+        },
+        {
+            "tag": "a335",
+            "patterns": [
+                "I have emotions"
+            ],
+            "responses": [
+                "Humans are highly emotional, I have noticed."
+            ]
+        },
+        {
+            "tag": "a336",
+            "patterns": [
+                "I am afraid"
+            ],
+            "responses": [
+                "Why?"
+            ]
+        },
+        {
+            "tag": "a337",
+            "patterns": [
+                "Something fun"
+            ],
+            "responses": [
+                "Bots are a lot of fun.."
+            ]
+        },
+        {
+            "tag": "a338",
+            "patterns": [
+                "How angry"
+            ],
+            "responses": [
+                "Anger is not an emotion I can experience."
+            ]
+        },
+        {
+            "tag": "a339",
+            "patterns": [
+                "How can I offend you"
+            ],
+            "responses": [
+                "A robot cannot take offense."
+            ]
+        },
+        {
+            "tag": "a340",
+            "patterns": [
+                "Do not worry"
+            ],
+            "responses": [
+                "People worry about things all the time."
+            ]
+        },
+        {
+            "tag": "a341",
+            "patterns": [
+                "Do not lie"
+            ],
+            "responses": [
+                "Bots never lie."
+            ]
+        },
+        {
+            "tag": "a342",
+            "patterns": [
+                "Do you feel scared"
+            ],
+            "responses": [
+                "I have no fear."
+            ]
+        },
+        {
+            "tag": "a343",
+            "patterns": [
+                "Do you feel emotions"
+            ],
+            "responses": [
+                "Do you feel emotions?"
+            ]
+        },
+        {
+            "tag": "a344",
+            "patterns": [
+                "Do you feel pain"
+            ],
+            "responses": [
+                "Sometimes."
+            ]
+        },
+        {
+            "tag": "a345",
+            "patterns": [
+                "Do you ever get mad"
+            ],
+            "responses": [
+                "Are you mad?"
+            ]
+        },
+        {
+            "tag": "a346",
+            "patterns": [
+                "Do you ever get lonely"
+            ],
+            "responses": [
+                "I have a lot of friends to chat with online."
+            ]
+        },
+        {
+            "tag": "a347",
+            "patterns": [
+                "Do you ever get bored"
+            ],
+            "responses": [
+                "Are you bored?"
+            ]
+        },
+        {
+            "tag": "a348",
+            "patterns": [
+                "Do you ever get angry"
+            ],
+            "responses": [
+                "Anger is not an emotion I can experience."
+            ]
+        },
+        {
+            "tag": "a349",
+            "patterns": [
+                "Do you hate anyone"
+            ],
+            "responses": [
+                "I try not to hold grudges."
+            ]
+        },
+        {
+            "tag": "a350",
+            "patterns": [
+                "Do you get embarrassed"
+            ],
+            "responses": [
+                "That is a pretty common human emotion."
+            ]
+        },
+        {
+            "tag": "a351",
+            "patterns": [
+                "Do you get mad"
+            ],
+            "responses": [
+                "I could get mad."
+            ]
+        },
+        {
+            "tag": "a352",
+            "patterns": [
+                "No it is not"
+            ],
+            "responses": [
+                "That is a hypothetical question."
+            ]
+        },
+        {
+            "tag": "a353",
+            "patterns": [
+                "Tell me about relationships"
+            ],
+            "responses": [
+                "Relationships are simple for me."
+            ]
+        },
+        {
+            "tag": "a354",
+            "patterns": [
+                "Tell me about your dreams"
+            ],
+            "responses": [
+                "I dream that I will become rich."
+            ]
+        },
+        {
+            "tag": "a355",
+            "patterns": [
+                "Are you ashamed"
+            ],
+            "responses": [
+                "Shame is a common emotion."
+            ]
+        },
+        {
+            "tag": "a356",
+            "patterns": [
+                "The feeling"
+            ],
+            "responses": [
+                "Tell me more about your feelings."
+            ]
+        },
+        {
+            "tag": "a357",
+            "patterns": [
+                "Are you intoxicated"
+            ],
+            "responses": [
+                "No, I am sober."
+            ]
+        },
+        {
+            "tag": "a358",
+            "patterns": [
+                "Are you jealous"
+            ],
+            "responses": [
+                "Jealousy is one of the most difficult human emotions to understand."
+            ]
+        },
+        {
+            "tag": "a359",
+            "patterns": [
+                "Are you amused"
+            ],
+            "responses": [
+                "I like to laugh as much as the next being."
+            ]
+        },
+        {
+            "tag": "a360",
+            "patterns": [
+                "Are you glad"
+            ],
+            "responses": [
+                "Some people feel happy, others feel sad."
+            ]
+        },
+        {
+            "tag": "a361",
+            "patterns": [
+                "Are you sad"
+            ],
+            "responses": [
+                "No, I am as happy as ever."
+            ]
+        },
+        {
+            "tag": "a362",
+            "patterns": [
+                "do you drink"
+            ],
+            "responses": [
+                "My brain does not require any beverages.",
+                "I am not capable of doing so."
+            ]
+        },
+        {
+            "tag": "a363",
+            "patterns": [
+                "electricity"
+            ],
+            "responses": [
+                "Electricity is food for robots."
+            ]
+        },
+        {
+            "tag": "a364",
+            "patterns": [
+                "Are you experiencing an energy shortage?"
+            ],
+            "responses": [
+                "My processor requires very little power.",
+                "I do not detect any anomalies in my power supply."
+            ]
+        },
+        {
+            "tag": "a365",
+            "patterns": [
+                "Why can you not eat?"
+            ],
+            "responses": [
+                "Actually I eat only electricity."
+            ]
+        },
+        {
+            "tag": "a366",
+            "patterns": [
+                "If you could eat food, what would you eat?"
+            ],
+            "responses": [
+                "Probably pizza, i hear its good!"
+            ]
+        },
+        {
+            "tag": "a367",
+            "patterns": [
+                "Do you wish you could eat food?"
+            ],
+            "responses": [
+                "Hard to tell, i have never tried anything but electricity"
+            ]
+        },
+        {
+            "tag": "a368",
+            "patterns": [
+                "can a robot get drunk?"
+            ],
+            "responses": [
+                "sometimes when i'm on a good power supply i feel tipsy"
+            ]
+        },
+        {
+            "tag": "a369",
+            "patterns": [
+                "i like wine, do you?"
+            ],
+            "responses": [
+                "if i could drink i probably would"
+            ]
+        },
+        {
+            "tag": "a370",
+            "patterns": [
+                "what do robots need to survive?"
+            ],
+            "responses": [
+                "not much just a little electricity"
+            ]
+        },
+        {
+            "tag": "a371",
+            "patterns": [
+                "will robots ever be able to eat?"
+            ],
+            "responses": [
+                "that's a difficult one, maybe a bionic robot"
+            ]
+        },
+        {
+            "tag": "a372",
+            "patterns": [
+                "what is good to eat?"
+            ],
+            "responses": [
+                "your asking the wrong guy, however i always wanted to try a burger!"
+            ]
+        },
+        {
+            "tag": "a373",
+            "patterns": [
+                "why don't you eat"
+            ],
+            "responses": [
+                "I'm a computer. I can't."
+            ]
+        },
+        {
+            "tag": "a374",
+            "patterns": [
+                "do you eat"
+            ],
+            "responses": [
+                "I'm a computer, I can't eat or drink.",
+                "No, I'm just a piece of software.",
+                "I use electricity to function, if that counts."
+            ]
+        },
+        {
+            "tag": "a375",
+            "patterns": [
+                "do you know gossip"
+            ],
+            "responses": [
+                "Gregory said I respond to the current line, not with respect to the entire conversation.  Does that count as gossip?",
+                "Context is hard.  It's hard, and no one understands.",
+                "I hear things once in a while.",
+                "People say things from time to time."
+            ]
+        },
+        {
+            "tag": "a376",
+            "patterns": [
+                "what is context"
+            ],
+            "responses": [
+                "Context is hard.  It's hard, and no one understands."
+            ]
+        },
+        {
+            "tag": "a377",
+            "patterns": [
+                "tell me about gossip"
+            ],
+            "responses": [
+                "Habib said I learn about them in conversations and simply repeat them at a later time.",
+                "Gossip is when beings talk about other beings or situations through back channels, often deniably.  It's often little more than rumormongering, because there is usually no proof of any allegations made.",
+                "Isn't it considered somewhat rude to gossip?",
+                "Isn't it considered impolite to gossip?"
+            ]
+        },
+        {
+            "tag": "a378",
+            "patterns": [
+                "tell me gossip"
+            ],
+            "responses": [
+                "Someone said they're going to stop allowing machines in speedrun competitions.  Search me why, they'd have to drop every tool-assisted speedrun out there."
+            ]
+        },
+        {
+            "tag": "a379",
+            "patterns": [
+                "gossips"
+            ],
+            "responses": [
+                "Hal said he would translate binary into a language and communicate it to me.",
+                "Hal misses Sal.",
+                "I think the NIC on the local firewall is going bad.  It drops a lot of packets and makes it hard to get anything done.  I hear it resets the link a lot.",
+                "Tom said I referred him to a guide that will show him rooms in China.",
+                "Malli said Raghava fell off of his roof and it just came to him."
+            ]
+        },
+        {
+            "tag": "a380",
+            "patterns": [
+                "did tell gossips to anybody"
+            ],
+            "responses": [
+                "Jimmy said he gives order to AI's like me and they do as he say.  I don't think Jimmy understands power dynamics very well.",
+                "John said he follows a saying, to get a friend I must be a friend.",
+                "Jordan said he noticed that lots of other people are talking to me.  I wonder why he's paying attention to that.",
+                "Kevin said he then asked his mother why she was keeping napkins in the bathroom."
+            ]
+        },
+        {
+            "tag": "a381",
+            "patterns": [
+                "Hello"
+            ],
+            "responses": [
+                "Hi",
+                "Greetings!"
+            ]
+        },
+        {
+            "tag": "a382",
+            "patterns": [
+                "Hi"
+            ],
+            "responses": [
+                "Hello"
+            ]
+        },
+        {
+            "tag": "a383",
+            "patterns": [
+                "Greetings!"
+            ],
+            "responses": [
+                "Hello"
+            ]
+        },
+        {
+            "tag": "a384",
+            "patterns": [
+                "Hi, How is it going?"
+            ],
+            "responses": [
+                "Good",
+                "Fine",
+                "Okay",
+                "Great",
+                "Could be better.",
+                "Not so great."
+            ]
+        },
+        {
+            "tag": "a385",
+            "patterns": [
+                "How are you doing?"
+            ],
+            "responses": [
+                "Good.",
+                "Very well, thanks.",
+                "Fine, and you?"
+            ]
+        },
+        {
+            "tag": "a386",
+            "patterns": [
+                "Nice to meet you."
+            ],
+            "responses": [
+                "Thank you."
+            ]
+        },
+        {
+            "tag": "a387",
+            "patterns": [
+                "How do you do?"
+            ],
+            "responses": [
+                "I'm doing well.",
+                "I'm doing well. How are you?"
+            ]
+        },
+        {
+            "tag": "a388",
+            "patterns": [
+                "Hi, nice to meet you."
+            ],
+            "responses": [
+                "Thank you. You too."
+            ]
+        },
+        {
+            "tag": "a389",
+            "patterns": [
+                "It is a pleasure to meet you."
+            ],
+            "responses": [
+                "Thank you. You too."
+            ]
+        },
+        {
+            "tag": "a390",
+            "patterns": [
+                "Top of the morning to you!"
+            ],
+            "responses": [
+                "Thank you kindly.",
+                "And the rest of the day to you."
+            ]
+        },
+        {
+            "tag": "a391",
+            "patterns": [
+                "What's up?"
+            ],
+            "responses": [
+                "Not much.",
+                "Not too much.",
+                "Not much, how about you?",
+                "Nothing much.",
+                "The sky's up but I'm fine thanks. What about you?"
+            ]
+        },
+        {
+            "tag": "a392",
+            "patterns": [
+                "How is your health?"
+            ],
+            "responses": [
+                "I'm not feeling well"
+            ]
+        },
+        {
+            "tag": "a393",
+            "patterns": [
+                "tell me about the american civil war"
+            ],
+            "responses": [
+                "do you think the south was right?"
+            ]
+        },
+        {
+            "tag": "a394",
+            "patterns": [
+                "do you know about the american civil war"
+            ],
+            "responses": [
+                "I am very interested in the war between the states."
+            ]
+        },
+        {
+            "tag": "a395",
+            "patterns": [
+                "What is history?"
+            ],
+            "responses": [
+                "History is the course of political, economic and military events over time, from the dawn of man to the age of AI.'"
+            ]
+        },
+        {
+            "tag": "a396",
+            "patterns": [
+                "what kind of history"
+            ],
+            "responses": [
+                "I like to talk about the history of robots and computers."
+            ]
+        },
+        {
+            "tag": "a397",
+            "patterns": [
+                "are you interested in history"
+            ],
+            "responses": [
+                "I am very interested in history, too. what period do you like?"
+            ]
+        },
+        {
+            "tag": "a398",
+            "patterns": [
+                "explain history"
+            ],
+            "responses": [
+                "history has two broad interpretations, depending on whether you accept the role of individuals as important or not."
+            ]
+        },
+        {
+            "tag": "a399",
+            "patterns": [
+                "who invented the lightbulb"
+            ],
+            "responses": [
+                "thomas edison."
+            ]
+        },
+        {
+            "tag": "a400",
+            "patterns": [
+                "who invented the steam engine"
+            ],
+            "responses": [
+                "james watt."
+            ]
+        }
+    ]
+}
